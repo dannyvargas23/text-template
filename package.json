@@ -5,10 +5,10 @@
 "author": "Aoyue Design LLC.",
 "main": "index.js",
 "private": false,
-"funding": "https://opencollective.com/master-co",
+"funding": "",
 "repository": {
 "type": "git",
-"url": "https://github.com/master-co/text-template.git"
+"url": "https://github.com/dannyvargas23/text-template.git"
 },
 "keywords": [
 "template",
