@@ -1,0 +1,32 @@
+{
+"name": "@master/text-template",
+"license": "MIT",
+"description": "Tokenize any texts and render with data ( less than 2KB )",
+"author": "Aoyue Design LLC.",
+"main": "index.js",
+"private": false,
+"funding": "https://opencollective.com/master-co",
+"repository": {
+"type": "git",
+"url": "https://github.com/master-co/text-template.git"
+},
+"keywords": [
+"template",
+"engine",
+"text",
+"string",
+"token",
+"replace",
+"comment",
+"slot",
+"html",
+"readme",
+"pascal",
+"forth",
+"haskell",
+"ejs",
+"handlebars"
+],
+"types": "index.d.ts",
+"version": "1.0.7"
+}
